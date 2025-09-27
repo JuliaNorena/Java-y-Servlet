@@ -24,4 +24,4 @@
     <p><a href="/inventory">Volver</a></p>
 </div>
 </body>
-</html>
+</html> 
