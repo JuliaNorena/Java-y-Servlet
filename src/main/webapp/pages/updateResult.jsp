@@ -20,7 +20,6 @@
         <p><strong>Cantidad:</strong> ${product.quantity}</p>
         <p><strong>Precio:</strong> ${product.price}</p>
     </c:if>
-
     <p><a href="/inventory">Volver</a></p>
 </div>
 </body>
